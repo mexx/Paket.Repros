@@ -1,0 +1,8 @@
+bin/
+obj/
+packages/
+*.suo
+*.user
+*.DotSettings
+*ncrunch*
+.paket/paket.exe
