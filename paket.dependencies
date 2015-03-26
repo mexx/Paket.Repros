@@ -1,0 +1,4 @@
+source http://custom/...
+source https://nuget.org/api/v2
+
+nuget Newtonsoft.Json
